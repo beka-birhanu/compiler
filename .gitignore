@@ -1,0 +1,17 @@
+# ignore everything
+*
+
+# keep source + config
+!.gitignore
+!Makefile
+!*.l
+!*.txt
+!*.cpp
+!*.java
+!*.pdf
+
+# always ignore generated artifacts
+bin/
+build/
+*.c
+*.pdf

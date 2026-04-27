@@ -1,0 +1,4 @@
+int x = 5;
+char c;
+float result2;
+myVar another1 test

@@ -1,0 +1,6 @@
+Hello World
+BCDFG are consonants
+AEIOU are vowels
+The Quick Brown Fox Jumps Over The Lazy Dog
+programming is fun
+RSTLNE

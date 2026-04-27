@@ -1,0 +1,2 @@
+if x >= 10 then y = x else z = 0
+if a <> b then result = 3.14E+2
